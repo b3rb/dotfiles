@@ -1,0 +1,28 @@
+# xbindkeys config
+
+# volume control keys
+"sh ~/scripts/vol.sh up" 
+  Mod4 + equal
+
+"sh ~/scripts/vol.sh down"
+  Mod4 + minus
+
+# displays battery percentage
+"sh ~/scripts/bat.sh"
+  Shift+Mod4 + b
+
+# starts browser
+"qutebrowser"
+  Shift+Mod4 + f
+
+# starts file manager
+"thunar"
+  Shift+Mod4 + t
+
+# locks screen
+"slock"
+  Mod4 + x
+
+# starts discord
+"discord"
+  Shift+Mod4 + d
