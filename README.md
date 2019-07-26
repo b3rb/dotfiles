@@ -6,7 +6,7 @@
 * A few utility scripts
 * My ~/.bashrc (which includes my nnn config), and ~/.xinitrc
 * My dunst and xbindkeys config files
-* Although it's not included my Vim config can be found [here](https://www.github.com/b3rb/vim-dotfiles)
+* Although it's not included, my Vim config can be found [here](https://www.github.com/b3rb/vim-dotfiles)
 
 ### Screenshot:
 ![Screenshot](/img/screenshot.png)
