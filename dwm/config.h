@@ -7,7 +7,7 @@ static const unsigned int snap      = 32;       /* snap pixel */
 static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
 static const char *fonts[]          = { "Misc Fixed:size=14" };
-static const char dmenufont[]       = "Misc Fixed:size=14";
+static const char dmenufont[]       = { "Misc Fixed:size=14" };
 static const char normal[]          = "#262626";
 static const char normal_text[]     = "#bbbbbb";
 static const char selected_text[]   = "#eeeeee";
